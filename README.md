@@ -15,7 +15,12 @@ Screenshots
 --
 
 The commands are :
+<br><br>
 **1. show**
+<br><br>
 **2. done**
 
-***Strictly type these only!**
+<br><br><br>
+<br><br>
+
+**Strictly type these only!**
