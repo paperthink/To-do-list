@@ -10,5 +10,5 @@ This is entirely my alogrithm and logic and even the code.
 
 Screenshots
 
-[Screenshot 1](screen1.png)
+[Screenshot 1](TO-DO-LIST/screen1.png)
 
