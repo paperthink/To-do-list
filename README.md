@@ -12,6 +12,7 @@ Screenshots
 
 ![Screenshot 1](screen1.png)
 
+
 --
 
 The commands are :
@@ -21,6 +22,6 @@ The commands are :
 **2. done**
 
 <br><br><br>
-<br><br>
+![Demo Screenshow](demo.png)
 
 **Strictly type these only!**
