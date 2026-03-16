@@ -26,6 +26,8 @@ The commands are :
 <br><br>
 **2. done**
 
+and type **bye** to exit 
+
 <br><br><br>
 --
 Demo
