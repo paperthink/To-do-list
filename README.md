@@ -12,3 +12,10 @@ Screenshots
 
 ![Screenshot 1](screen1.png)
 
+--
+
+The commands are :
+**1. show**
+**2. done**
+
+***Strictly type these only!**
