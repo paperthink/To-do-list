@@ -22,6 +22,10 @@ The commands are :
 **2. done**
 
 <br><br><br>
+--
+Demo
+<br>
 ![Demo Screenshow](demo.png)
+--
 
 **Strictly type these only!**
