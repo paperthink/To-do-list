@@ -3,7 +3,6 @@
 ![Built by Pratyush](https://img.shields.io/badge/Built%20by-Pratyush-orange?style=for-the-badge&logo=rocket)
 
 
-
 -
 **Hello Everybody!**
 -
